@@ -1,0 +1,271 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+   
+}
+body{
+    background: linear-gradient(120deg,#ffffff, #00a2ff); } 
+
+
+h1{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0px;
+    padding: 40px;
+    color: rgb(111, 196, 236);
+}
+.head{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    text-transform: uppercase;
+    padding: 10px;
+   
+    
+}
+.head img{
+    float: left;
+}
+
+header{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(160, 159, 173);
+    color:black;
+  
+    overflow: hidden;
+}
+header a{
+    color: black;
+   float: left;
+   
+}
+.nav{
+    margin: 0px;
+    padding: 30px;
+    font-size: 20px;
+    margin-top: 0px;
+    color: aliceblue;
+   float: left; 
+    text-decoration : none;
+    
+}
+.nav:hover{
+    background-color: rgb(36, 31, 31); 
+    cursor: pointer;
+    padding: 35px;
+    transition: .5s;
+    
+}
+
+header p{
+    float: right;
+    cursor: pointer;
+}
+.hey{
+    display:flex;
+}
+
+
+
+.p1{
+    color: rgb(61, 129, 224);
+    font-size: 45px;
+    font-style: oblique;
+    width: 600px;
+    height: 400px;
+    float: left;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+}
+
+.p1{
+    margin-top: 150px;
+}
+
+.home{
+    width: 50%;
+  
+    float: right;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 5px;
+
+}
+
+.product{
+    margin: 60px;
+    color: rgb(61, 129, 224);
+    font-size: 60px;
+    /* border: 2px solid black; */
+    
+}
+
+section div{
+    background-color: aliceblue;
+    text-align: center;
+    border: 3px solid black;
+    padding: 5px;
+    margin: 30px;
+    margin-left: 270px;   
+}
+.supp{
+    text-align: center;
+    width: 900px;
+    height: 400px;
+    
+}
+#div1{
+    margin-top: 100px;
+}
+.supp img{
+    margin: 15px;
+    padding: 0px;
+    
+}
+
+#div1 img{
+    width: 360px;
+    height: 350px;
+    float: left;    
+}
+#div1 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+.a1{
+    padding: 0%;
+    text-decoration: none;
+    border: 1px;
+    font-size:3
+    0px;
+    font-weight: 800;
+   
+    padding: 10px;
+    color:  rgb(58, 172, 228);
+    
+   
+}
+
+.a1:hover{
+    
+    cursor: pointer;
+    transition: .5s;
+    padding: 15px;
+    background-color: rgb(58, 172, 228);
+    color: black;
+    
+   
+}
+
+#div2 img{
+    width: 360px;
+    height: 350px;
+    float: right;
+}
+#div2 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+
+#div3 img{
+    width: 360px;
+    height: 350px;
+    float: left;
+}
+#div3 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+
+#div4 img{
+    width: 360px;
+    height: 350px;
+    float: right;
+}
+#div4 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+.bo{
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 80px;
+    color: rgb(255, 255, 255);
+}
+.offer img{
+    border-radius: 5px;
+    padding: 15px;
+}
+.queries{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.okay{
+    margin: 100px;
+}
+
+.querybox{
+    align-items: center;
+}
+.readmore{
+    color:rgb(50, 105, 142);
+    font-size: 25px;
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 19px;
+    text-align:center;
+    background-color: black;
+    margin-right: 170px;
+}
+
+.email{
+    width: 500px;
+    
+    padding: 10px;
+}
+.button{
+    border: 3px solid blue;
+    padding: 5px;
+    color: blue;
+    align-items: center;
+}
+
+footer{
+    background-color: black;
+  padding: 10px;
+    
+}
+footer a{
+    color: azure;
+    text-decoration: none;
+    padding: 12px;
+    padding-bottom: 0px;
+    font-size: 20px;
+}
+footer a:hover{
+    background-color: gray;
+    padding: 15px;
+}
+.submit{
+    width: 400px;
+    margin: 20px;
+}

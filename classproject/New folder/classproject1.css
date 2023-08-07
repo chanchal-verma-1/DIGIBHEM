@@ -1,0 +1,219 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: black;
+ } 
+h1{
+    background-color: rgb(50, 105, 142);
+    text-align: center;
+    margin: 0px;
+    padding: 25px;
+}
+header{
+    padding: 25px;
+    margin: 0px;
+    background-color: rgb(141, 190, 235);
+    color:black;
+    text-align: center;
+    overflow: hidden;
+}
+
+.nav{
+    margin: 4px;
+    padding: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+    color: aliceblue;
+    
+    text-decoration : none;
+    
+}
+.nav:hover{
+    background-color: rgb(50, 105, 142); 
+    cursor: pointer;
+    
+}
+
+header p{
+    float: right;
+    cursor: pointer;
+}
+.hey{
+    display:flex;
+}
+
+
+
+.text{
+    color: rgb(61, 129, 224);
+    font-size: 45px;
+    font-style: oblique;
+    width: 600px;
+    height: 400px;
+    float: left;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+}
+
+.p1{
+    margin-top: 150px;
+}
+
+.gymm img{
+    width: 700px;
+    height: 400px;
+    float: right;
+    margin: 20px;
+    padding: 30px;
+}
+
+.product{
+    margin: 60px;
+    color: rgb(61, 129, 224);
+    font-size: 60px;
+    /* border: 2px solid black; */
+    
+}
+
+section div{
+    background-color: aliceblue;
+    text-align: center;
+    border: 3px solid black;
+    padding: 5px;
+    margin: 30px;
+    margin-left: 270px;   
+}
+.supp{
+    text-align: center;
+    width: 900px;
+    height: 400px;
+}
+#div1{
+    margin-top: 100px;
+}
+
+#div1 img{
+    width: 410px;
+    height: 400px;
+    float: left;    
+}
+#div1 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+.a1{
+    padding: 0%;
+    text-decoration: none;
+    color: grey;
+}
+.a1:hover{
+    
+    cursor: pointer;
+}
+
+#div2 img{
+    width: 410px;
+    height: 400px;
+    float: right;
+}
+#div2 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+
+#div3 img{
+    width: 410px;
+    height: 400px;
+    float: left;
+}
+#div3 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+
+#div4 img{
+    width: 410px;
+    height: 400px;
+    float: right;
+}
+#div4 p{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+.okay{
+    margin: 100px;
+}
+.readmore{
+    color:rgb(50, 105, 142);
+    font-size: 25px;
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 19px;
+   text-align: center;
+    background-color: black;
+}
+.readmore:hover{
+    color: blue;
+}
+/* .readmore1{ */
+    /* background-color: black;
+} */
+.update{
+    font-size: 50px;
+    color: white;
+    margin: 0px;
+    margin-right: 180px;
+    padding: 0px;
+}
+.update1{ 
+    background-color: black;
+}
+.email{
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 0px;
+    margin-right: 180px;
+    
+}
+.button{
+    border: 3px solid blue;
+    padding: 5px;
+    color: blue;
+    align-items: center;
+}
+
+footer{
+    background-color: grey;
+    
+}
+footer a{
+    
+    color: azure;
+    text-decoration: none;
+    padding: 10px;
+    padding-bottom: 0px;
+    
+    font-size: 20px;
+}
+.submit{
+    align-items: center;
+    width: 500px;
+    margin: 20px;
+    margin-right: 180px;
+    
+    border-radius: 12px;
+    background-color: grey;
+}
